@@ -1,2 +1,4 @@
 #!/bin/bash
+
+# <---- take me to the root level. Which is the top most (base of computer) ---->
 cd /root
