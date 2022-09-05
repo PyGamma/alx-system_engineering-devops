@@ -1,1 +1,1 @@
-This the basics shell project in the ALX SE program
+This the basic shell project in the ALX SE program.
